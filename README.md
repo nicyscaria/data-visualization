@@ -1,1 +1,1 @@
-[a link](https://github.com/nicyscaria/data-visualization/blob/main/README.md#data-visualization)
+[data-visualization](https://github.com/nicyscaria/data-visualization/tree/main/#data-visualization)

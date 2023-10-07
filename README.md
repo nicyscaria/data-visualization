@@ -23,7 +23,7 @@ Kerala.
 
 ### Scatter plot of girls and boys enroled in 11th and 12th grades in Kerala
 
-![Alt text](images/scatter.png)
+![Alt text](images/scatterplot.png)
 
 It can be observed from the scatter plot that most students enroled in 11th grade is of age 16 and that of 12th grade is 17. But there
 are students of age above 20 also who are enroled in these grades. Also, the number of girls are more in both 11th and 12th grades.
